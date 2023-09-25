@@ -9,6 +9,7 @@ This repository demonstrates how to utilize ChatGPT, a powerful language generat
 2. [Project Overview](#project-overview)
 3. [Getting Started](#getting-started)
 4. [Usage](#usage)
+5. [Demo](#demo)
 
 ## Introduction
 
@@ -38,6 +39,10 @@ To get started with this project, follow these steps:
 The project utilizes ChatGPT to guide through each step of an end-to-end data science project. It includes prompts and follow-up prompts to interact with ChatGPT and generate relevant code snippets and guidance.
 
 To use this repository effectively, follow the prompts provided in the [notebook](End-to-End_Data_Science_Project_with_ChatGPT.ipynb) to progress through the data science project.
+
+## Demo
+
+Che out the [demo](https://huggingface.co/spaces/GuglielmoT/Loan_Classifier)
 
 
 
