@@ -24,7 +24,7 @@ The project is centered around a loan dataset and covers the following tasks:
 - Hyperparameter tuning and model evaluation
 - Web Application Development
 
-For a detailed explanation of each task and associated prompts, refer to the [notebook](End-to-End Data Science Project with ChatGPT.ipynb).
+For a detailed explanation of each task and associated prompts, refer to the [notebook](./End-to-End Data Science Project with ChatGPT.ipynb).
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ To get started with this project, follow these steps:
 
 The project utilizes ChatGPT to guide through each step of an end-to-end data science project. It includes prompts and follow-up prompts to interact with ChatGPT and generate relevant code snippets and guidance.
 
-To use this repository effectively, follow the prompts provided in the [notebook](End-to-End-Data-Science-Project-with-ChatGPT/End-to-End Data Science Project with ChatGPT.ipynb) to progress through the data science project.
+To use this repository effectively, follow the prompts provided in the [notebook](End-to-End-Data-Science-Project-with-ChatGPT) to progress through the data science project.
 
 
 
